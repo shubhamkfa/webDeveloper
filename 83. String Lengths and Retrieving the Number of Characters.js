@@ -8,8 +8,8 @@ let para = prompt("Enter your Paragraph Here")
 let input=para.length
 let limit= 280 
 
-//string concatinate
+//string concetinate
 // console.log("You have written "+ input + " characters, you have "+ (limit-input) + " characters left."  )
 
-//backtick concatinate
+//backtick concetinate
 console.log(`You have written ${input} characters, you have ${limit-input} characters left.`  )
