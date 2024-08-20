@@ -11,5 +11,6 @@ let limit= 280
 //string concetinate
 // console.log("You have written "+ input + " characters, you have "+ (limit-input) + " characters left."  )
 
-//backtick concetinate
+//backtick concetinate//
 console.log(`You have written ${input} characters, you have ${limit-input} characters left.`  )
+
