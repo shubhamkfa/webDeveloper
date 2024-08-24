@@ -3,7 +3,7 @@ let name = prompt ("What is your name?")
 
 // console.log(name.toUpperCase())
 
-//chalenge first letter capital only 
+//chalenge first letter capital only  with space
 
 let a= name.slice(0,1)
 let a1= a.toUpperCase()
